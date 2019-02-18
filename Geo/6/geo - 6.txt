@@ -1,0 +1,6 @@
+VAN-World-Resources - full
+IASbaba-SOIL-I - skip
+IASbaba-SOIL-2- 10 -14, 15 - 19, 20 - 24, 25 - 32, 33 - 42
+IASbaba-Geography-I - 51-54[landslides]
+IASbaba-Geography-III - full [current affairs in geo]
+Geography-4-IASbaba - skip
